@@ -7,6 +7,12 @@ files relevant to the research presented in the article.
 - Title: "_Title_".
 - Authors: Jefferson Maul, Davide Mitoli, Alessandro Erba, Ricardo P. S. Dutra.
 
+## Repository Structure
+- **CIF**: This directory contains CIF files related to crystallographic 
+information discussed in the article.
+- **CRYSTAL_output**: This directory contains CRYSTAL output files 
+(frequency calculations).
+
 ## Citation 📝
 If you use the data provided in this repository, please cite the original article
 
