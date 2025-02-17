@@ -1,5 +1,7 @@
 ## 🪨🪨🪨 Overview 🪨🪨🪨
-This repository contains supporting information for the article titled "_Title_" 
+This repository contains supporting information for the article titled "_Design of Mechanically and Dynamically Stable
+Symmetric Models of C-S-H for Atomistic DFT
+Simulations_" 
 published in . The dataset includes CIF (Crystallographic Information File) 
 files relevant to the research presented in the article.
 
