@@ -4,7 +4,9 @@ published in . The dataset includes CIF (Crystallographic Information File)
 files relevant to the research presented in the article.
 
 ## Article Information 📃
-- Title: "_Title_".
+- Title: "_Design of Mechanically and Dynamically Stable
+Symmetric Models of C-S-H for Atomistic DFT
+Simulations_".
 - Authors: Jefferson Maul, Davide Mitoli, Alessandro Erba, Ricardo P. S. Dutra.
 
 ## Repository Structure
