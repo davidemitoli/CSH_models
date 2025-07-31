@@ -1,10 +1,10 @@
 ## 🪨🪨🪨 Overview 🪨🪨🪨
-This repository contains supporting information for the article titled "_Atomistic Insights into the Elasticity and Vibrational Spectra of C-S-H via Symmetry-Constrained DFT Simulations_" 
+This repository contains supporting information for the article titled "_Atomistic Insights into the Elasticity and Raman Spectra of C-S-H from Quantum-Mechanical Simulations_" 
 published in <journal_name>. The dataset includes CIF (Crystallographic Information File) 
 files relevant to the research presented in the article.
 
 ## Article Information 📃
-- Title: "_Atomistic Insights into the Elasticity and Vibrational Spectra of C-S-H via Symmetry-Constrained DFT Simulations_".
+- Title: "_Atomistic Insights into the Elasticity and Raman Spectra of C-S-H from Quantum-Mechanical Simulations_".
 - Authors: Jefferson Maul, Davide Mitoli, Alessandro Erba, Ricardo P. S. Dutra.
 
 ## Repository Structure
