@@ -1,10 +1,10 @@
 ## 🪨🪨🪨 Overview 🪨🪨🪨
-This repository contains supporting information for the article titled "_Atomistic Insights into the Elasticity and Raman Spectra of C-S-H from Quantum-Mechanical Simulations_" 
-published in <journal_name>. The dataset includes CIF (Crystallographic Information File) 
+This repository contains supporting information for the article titled "_Atomistic Insights on Elasticity and Raman Spectra of C-S-H from Quantum-Mechanical Simulations_" 
+published in Journal of the American Ceramic Society (JACerS). The dataset includes CIF (Crystallographic Information File) 
 files relevant to the research presented in the article.
 
 ## Article Information 📃
-- Title: "_Atomistic Insights into the Elasticity and Raman Spectra of C-S-H from Quantum-Mechanical Simulations_".
+- Title: "_Atomistic Insights on Elasticity and Raman Spectra of C-S-H from Quantum-Mechanical Simulations_".
 - Authors: Jefferson Maul, Davide Mitoli, Alessandro Erba, Ricardo P. S. Dutra.
 
 ## Repository Structure
